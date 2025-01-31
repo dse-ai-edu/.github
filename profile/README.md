@@ -1,5 +1,5 @@
 ## About Us:
-This is the homepage of DSE Education Group led by [Dr. Jiliang Tang](https://www.cse.msu.edu/~tangjili/) from Michigan State University (MSU). We are working on **AI for Education (AI4EDU)** via AI technologies (like LLM, AI Agent, GenAI, Transformer, SSL, GNN, XAI, etc.).
+This is the homepage of DSE Education Group led by [Dr. Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and [Dr. Hui Liu](https://engineering.msu.edu/faculty/Hui-Liu) from Michigan State University (MSU). We are working on **AI for Education (AI4EDU)** via AI technologies (like LLM, AI Agent, GenAI, Transformer, SSL, GNN, XAI, etc.).
 
 ## Our Papers on AI for Education:
 
