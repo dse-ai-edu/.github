@@ -3,9 +3,14 @@ This is the homepage of DSE Education Group led by [Dr. Jiliang Tang](https://ww
 
 ## Our Papers on AI for Education:
 
+### 2025
+- Enhancing LLM-Based Constructed Response Analysis with RAG, EDM2025, [[arXiv]](https://arxiv.org/abs/2504.05276)
+- A LLM-Powered Automatic Grading Framework with Human-Level Guidelines Optimization, EDM2025, [[arXiv]](https://arxiv.org/abs/2410.02165)
+- LLM-based Automated Grading with Human-in-the-Loop, preprint, [[arXiv]](https://arxiv.org/abs/2504.05239)
+
 ### 2024
 - Ask-Before-Detection: Identifying and Mitigating Conformity Bias in LLM-Powered Error Detector for Math Word Problem Solutions, preprint. [[arXiv]](https://arxiv.org/abs/2412.16838)
-- A LLM-Powered Automatic Grading Framework with Human-Level Guidelines Optimization, preprint. [[arXiv]](https://arxiv.org/abs/2410.02165)
+- ErrorRadar: Benchmarking Complex Mathematical Reasoning of Multimodal Large Language Models Via Error Detection, preprint. [[arXiv]](https://arxiv.org/abs/2410.04509)
 - Knowledge Tagging with Large Language Model based Multi-Agent System, AAAI 2025, (**AAAI/IAAI 2025 Deployed Application Award**). [[arXiv]](https://arxiv.org/abs/2409.08406)
 - Knowledge Tagging System on Math Questions via LLMs with Flexible Demonstration Retriever, preprint. [[arXiv]](https://arxiv.org/abs/2406.13885)
 - Content Knowledge Identification with Multi-agent Large Language Models (LLMs), AIED 2024, [[arXiv]](https://arxiv.org/abs/2404.07960)
