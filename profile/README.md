@@ -3,6 +3,9 @@ This is the homepage of DSE Education Group led by [Dr. Jiliang Tang](https://ww
 
 ## Our Papers on AI for Education:
 
+### 2026
+- How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment, preprint, [[arXiv]](https://arxiv.org/abs/2602.16039)
+
 ### 2025
 - Exploring Solution Divergence and Its Effect on Large Language Model Problem Solving, preprint, [[arXiv]](https://arxiv.org/abs/2509.22480)
 - Enhancing LLM-Based Constructed Response Analysis with RAG, EDM2025, [[arXiv]](https://arxiv.org/abs/2504.05276)
