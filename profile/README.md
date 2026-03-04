@@ -4,6 +4,8 @@ This is the homepage of DSE Education Group led by [Dr. Jiliang Tang](https://ww
 ## Our Papers on AI for Education:
 
 ### 2026
+- Optimizing In-Context Demonstrations for LLM-based Automated Grading, preprint, [[arXiv]](https://arxiv.org/abs/2603.00465)
+- Confusion-Aware Rubric Optimization for LLM-based Automated Grading, preprint, [[arXiv]](https://arxiv.org/abs/2603.00451)
 - How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment, preprint, [[arXiv]](https://arxiv.org/abs/2602.16039)
 
 ### 2025
