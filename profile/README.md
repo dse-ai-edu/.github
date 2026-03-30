@@ -6,7 +6,8 @@ This is the homepage of DSE Education Group led by [Dr. Jiliang Tang](https://ww
 ### 2026
 - A LLM-Driven Multi-Agent Systems for Professional Development of Mathematics Teachers, AIED 2026, [[arXiv]](https://arxiv.org/abs/2507.05292)
 - Optimizing In-Context Demonstrations for LLM-based Automated Grading, AIED 2026, [[arXiv]](https://arxiv.org/abs/2603.00465)
-- Confusion-Aware Rubric Optimization for LLM-based Automated Grading, preprint, [[arXiv]](https://arxiv.org/abs/2603.00451)
+- Confusion-Aware Rubric Optimization for LLM-based Automated Grading, EDM 2026, [[arXiv]](https://arxiv.org/abs/2603.00451)
+- From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG, EDM 2026
 - How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment, preprint, [[arXiv]](https://arxiv.org/abs/2602.16039)
 
 ### 2025
